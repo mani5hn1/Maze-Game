@@ -1,0 +1,14 @@
+CREATE TABLE dbo.MazeGame(
+	MazeGameId INT IDENTITY(1,1) NOT NULL,
+	Username VARCHAR(250) NOT NULL,
+	Time VARCHAR(50) NOT NULL,
+	CoinsCollected VARCHAR(10) NOT NULL,
+	Room VARCHAR(15) NOT NULL,
+	Collisions Varchar(50) NOT NULL
+);  
+
+CREATE TABLE dbo.Account(
+	AccountId INT IDENTITY(1,1) NOT NULL,
+	Username VARCHAR(250) NOT NULL,
+	Password VARCHAR(250) NOT NULL
+);

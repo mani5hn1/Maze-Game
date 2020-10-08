@@ -1,0 +1,16 @@
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic Project\bin\Debug\Maze Game - Synoptic Project.exe.config
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic Project\bin\Debug\Maze Game - Synoptic Project.exe
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic Project\bin\Debug\Maze Game - Synoptic Project.pdb
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic Project\obj\Debug\Maze_Game___Synoptic_Project.Properties.Resources.resources
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic Project\obj\Debug\Maze Game - Synoptic Project.csproj.GenerateResource.cache
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic Project\obj\Debug\Maze Game - Synoptic Project.csproj.CoreCompileInputs.cache
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic Project\obj\Debug\Maze Game - Synoptic Project.exe
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic Project\obj\Debug\Maze Game - Synoptic Project.pdb
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic Project\obj\Debug\Maze_Game___Synoptic_Project.MainScreen.resources
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic Project\obj\Debug\Maze_Game___Synoptic_Project.ScoresScreen.resources
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic Project\obj\Debug\Maze_Game___Synoptic_Project.LoginScreen.resources
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic Project\obj\Debug\Maze_Game___Synoptic_Project.GameMode.resources
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic Project\obj\Debug\Maze_Game___Synoptic_Project.Room1.resources
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic Project\obj\Debug\Maze_Game___Synoptic_Project.Room3.resources
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic Project\obj\Debug\Maze_Game___Synoptic_Project.Room2.resources
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic Project\obj\Debug\Maze Game - Synoptic Project.csprojAssemblyReference.cache

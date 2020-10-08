@@ -1,0 +1,17 @@
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic ProjectTests\bin\Debug\Maze Game - Synoptic ProjectTests.dll
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic ProjectTests\bin\Debug\Maze Game - Synoptic ProjectTests.pdb
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic ProjectTests\bin\Debug\Maze Game - Synoptic Project.exe
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic ProjectTests\bin\Debug\Maze Game - Synoptic Project.pdb
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic ProjectTests\bin\Debug\Maze Game - Synoptic Project.exe.config
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic ProjectTests\obj\Debug\Maze Game - Synoptic ProjectTests.csprojAssemblyReference.cache
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic ProjectTests\obj\Debug\Maze Game - Synoptic ProjectTests.csproj.CoreCompileInputs.cache
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic ProjectTests\obj\Debug\Maze Game - Synoptic ProjectTests.csproj.CopyComplete
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic ProjectTests\obj\Debug\Maze Game - Synoptic ProjectTests.dll
+C:\Users\manish.ravji\Documents\QA\Synoptic Project\Maze Game - Synoptic Project\Maze Game - Synoptic ProjectTests\obj\Debug\Maze Game - Synoptic ProjectTests.pdb
